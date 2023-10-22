@@ -2,17 +2,9 @@
 
 # 基于Springboot的校园志愿者管理系统 
 
-# Springboot-031
-
 ### 技术栈
 
- springboot mybatiplus vue
-
-## 数据库
-
-mysql (13张表)
-
-
+ springboot mybatiplus vue maven mysql
 
 ## 运行截图
 
@@ -43,36 +35,5 @@ mysql (13张表)
 ![1688642565881](./images/19.png)
 
 ![1688642565881](./images/20.png)![1688642565881](./images/21.png)
-
-## 需要看运行视频或源码
-
-```html
-见images目录下面的a.txt文件
-
-```
-
-
-
-## 访问网址
-
-### 前台
-
-```
-http://localhost:8080/springbootpt9c5/front/index.html
-
-账号 学号1
-密码 123456
-```
-
-### 后台
-
-```
-http://localhost:8080/springbootpt9c5/admin/dist/index.html#/login
-
-账号 abo
-密码 abo
-```
-
-
 
 
